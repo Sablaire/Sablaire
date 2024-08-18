@@ -23,5 +23,5 @@
 
 <h2 align="center">Skills </h2>
 <p align="center">
-   <img src="https://simpleskill.icons.workers.dev/svg?i=tableau,powerbi,postgresql,mysql,python,r,c,cplusplus,delphi,fortran" /> 
+   <img src="https://simpleskill.icons.workers.dev/svg?i=tableau,postgresql,mysql,python,r,c,cplusplus,delphi,fortran,opengl,powerbi" /> 
 </p>
